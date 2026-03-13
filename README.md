@@ -31,7 +31,7 @@ It demonstrates how **computer vision** can process live video and separate the 
 Clone the repository
 
 ```
-git clone https://github.com/yourusername/realtime-background-remover.git
+git clone https://github.com/Ashadikram/realtime-background-remover.git
 ```
 
 Navigate to the project folder
